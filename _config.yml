@@ -1,0 +1,29 @@
+title: LEAP Dataset for ACL Reconstruction
+description: This is the documentation site for LEAP Dataset for ACL Reconstruction
+url: "https://leap.github.io/leap.github.io/"
+remote_theme: https://github.com/JV-conseil/jekyll-theme-read-the-docs
+
+# Sidebar navigation structure
+nav:
+  - title: "Home"
+    url: "/"
+    nav_order: 1
+  - title: "PDF Parsing"
+    url: "/pdf-parsing"
+    nav_order: 2
+  - title: "Ontology Construction"
+    url: "/ontology-construction"
+    nav_order: 3
+  - title: "Knowledge Graph Database"
+    url: "/knowledge-graph-database"
+    nav_order: 4
+  - title: "User Interface"
+    url: "/user-interface"
+    nav_order: 5
+  - title: "Meet Our Team"
+    url: "/team"
+    nav_order: 6
+  - title: "Dissemination"
+    url: "/dissemination"
+    nav_order: 7
+
