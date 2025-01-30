@@ -15,6 +15,10 @@ The LEAP (Lower Extremity Assessment Platform) dataset is designed for analyzing
 
 With the advancement of wearable sensor technology, gait data analysis has emerged as a crucial tool for identifying motion impairments. Traditional methods like video-based motion capture are expensive and require complex setups. The LEAP dataset leverages accelerometer and gyroscope data from body-worn sensors to perform movement classification using machine learning. The dataset contains motion data from **131 participants**, including **109 individuals with ACL injuries**. 
 
+## Access to Dataset
+
+If you would like to have access to the LEAP dataset, please send an email to **xzhu39@crimson.ua.edu** stating your purpose and affiliated organization.
+
 
 ## Data Collection
 
