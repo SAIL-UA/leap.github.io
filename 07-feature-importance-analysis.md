@@ -57,6 +57,12 @@ Feature importance analysis helps:
 - Improve model performance by selecting the most relevant features.
 - Provide interpretability for decision-making.
 
+## Example Result
+
+The following figure showed the example pair-wise sensor importance heatmap extracted from trained model:
+
+![Heatmap](/media/heatmap.png)
+
 ## Next Steps
 
 Once feature importance is analyzed, you can refine your model by selecting the most influential features or adjusting feature engineering strategies.

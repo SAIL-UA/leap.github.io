@@ -42,6 +42,14 @@ plot_tsne(
 - Provides insights into class separability.
 - Assists in detecting misclassified samples.
 
+
+## Example Result
+
+The following figure showed the example T-sne result comparison with label-colored vs model-confidence-colored:
+
+![T-sne](/media/tsne.png)
+
+
 ## Next Steps
 
 After visualizing the feature space, you can refine feature selection, adjust model parameters, or further investigate class distributions.
