@@ -33,7 +33,7 @@ Each participant performed the following activities:
 - **Walking** (3 minutes at 3 mph)
 - **Jogging** (3 minutes at 6 mph)
 
-Data was recorded at **128Hz** sampling rate to capture motion dynamics effectively.
+The data was originally recorded at a 128Hz sampling rate to effectively capture motion dynamics. During preprocessing, we downsampled it from 128Hz to 60Hz to optimize data handling and analysis.
 
 ## Workflow
 
