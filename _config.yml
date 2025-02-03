@@ -32,4 +32,6 @@ nav:
   - title: "t-SNE Visualization"
     url: "/tsne-visualization"
     nav_order: 8
-
+  - title: "Our Team"
+    url: "/our-team"
+    nav_order: 9

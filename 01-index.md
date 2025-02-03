@@ -9,7 +9,7 @@ permalink: /
 
 ## Overview
 
-The LEAP (Lower Extremity Assessment Platform) dataset is designed for analyzing and classifying ACL (Anterior Cruciate Ligament) injuries using motion data collected from wearable sensors. The dataset was collected at **Exercise and Sports Injury Lab (EASIL) at the University of Virginia**, where participants performed controlled walking and jogging tasks on a treadmill under supervised conditions. This dataset enables personalized classification of ACL injury conditions based on gait patterns observed during walking and jogging. It provides valuable insights into the biomechanics of injured individuals compared to healthy controls, assisting researchers and clinicians in rehabilitation assessment and injury prevention.
+The Lower Extremity Assessment Protocol (LEAP) is a program to prevent reinjury and promote long-term health by characterizing muscle function, evaluating movement performance, and monitoring patient-reported outcomes (e.g., pain). The purpose of this study is to learn more about the outcomes following orthopaedic surgery after a lower limb injury. This dataset is designed for analyzing and classifying ACL (Anterior Cruciate Ligament) injuries using motion data collected from wearable sensors.  This dataset enables personalized classification of ACL injury conditions based on gait patterns observed during walking and jogging. It provides valuable insights into the biomechanics of injured individuals compared to healthy controls, assisting researchers and clinicians in rehabilitation assessment and injury prevention.
 
 ## Background
 
@@ -17,7 +17,7 @@ With the advancement of wearable sensor technology, gait data analysis has emerg
 
 ## Access to Dataset
 
-If you would like to have access to the LEAP dataset, please send an email to **xzhu39@crimson.ua.edu** stating your purpose and affiliated organization.
+If you would like to have access to the LEAP dataset, please send an email to **jiaqi.gong@ua.edu** stating your purpose and affiliated organization.
 
 
 ## Data Collection
@@ -68,10 +68,6 @@ To start using the LEAP dataset, follow these steps:
 4. Assign labels to the dataset ([Get Label](get-label.md)).
 5. Train and evaluate models ([Train Model and Save Model](train-model-save-model.md)).
 6. Perform feature analysis and visualization ([Feature Importance Analysis](feature-importance-analysis.md) & [t-SNE Visualization](tsne-visualization.md)).
-
-## Citation
-
-If you use the LEAP dataset, please cite:
 
 
 ## License
