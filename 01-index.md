@@ -39,7 +39,7 @@ Data was recorded at **128Hz** sampling rate to capture motion dynamics effectiv
 
 The LEAP dataset follows a structured pipeline for processing sensor data and generating machine learning-ready features:
 
-1. **Data Collection & Preprocessing** - Extracts raw motion sensor data.
+1. **Data Preprocessing** - Extracts raw motion sensor data.
 2. **Feature Matrix Generation** - Computes time and frequency domain features.
 3. **Label Assignment** - Maps ground truth labels based on demographics and injury status.
 4. **Model Training & Evaluation** - Trains classifiers to distinguish injured vs. healthy individuals.

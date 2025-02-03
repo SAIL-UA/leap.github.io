@@ -8,19 +8,17 @@ Meet the members of our team contributing to this LEAP dataset.
 
 ## Team Members
 
-### [Dr. Jiaqi Gong]   
-- University of Alabama  
-- SAIL Lab
+### Jiaqi Gong 
+- University of Alabama
+- Associate Professor  
 - jiaqi.gong@ua.edu
 
-### [Member Name]  
-**Title**: [Position]  
-**School**: [University/Institution]  
-**Lab**: [Lab Name]  
-**Email**: [Email Address]  
+### Xishi Zhu 
+- University of Alabama  
+- PhD Student
+- xzhu39@crimson.ua.edu
 
-### [Member Name]  
-**Title**: [Position]  
-**School**: [University/Institution]  
-**Lab**: [Lab Name]  
-**Email**: [Email Address] 
+### Joe M. Hart 
+- University of North Carolina 
+- Professor
+- joe_hart@med.unc.edu
